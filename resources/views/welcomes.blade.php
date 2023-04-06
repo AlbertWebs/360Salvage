@@ -225,7 +225,7 @@
                             <li><i class="flaticon-comment"></i>Quality Control System</li>
                         </ul>
                         <div class="about-6-author-info">
-                            <div class="about-6-author-thumb"><img width="80" src="{{asset('theme/assets/images/happy-smiling-geek-hipster-beard-man-cool-avatar-geek-man-avatar-104871313.jpg')}}" alt=""></div>
+                            <div class="about-6-author-thumb"><img src="{{asset('theme/assets/images/resource/author-1.jpg')}}" alt=""></div>
                             <div class="about-6-phone-label">Call Us :</div>
                             <div class="about-6-phone-number"><a href="tel:(+123)4567890">+ (254) 723000000</a></div>
                         </div>
@@ -240,7 +240,138 @@
         </div>
     </section>
 
+    <section class="services-4-section s-two">
+        <div class="services-4-sec-bg" style="background-image: url('{{asset('theme/assets/images/background/bg-9.jpg')}}');"></div>
+        <div class="auto-container">
+            <div class="sec-title-wrap">
+                <div class="sec-title-area mb_50">
+                    <div class="sub-title">What We Do</div>
+                    <h2 class="sec-title light">Our Services</h2>
+                </div>
+                <div class="title-desc mb_30 light">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the <br> day, going forward, a new normal that has evolved from generation.towards.</div>
+            </div>
+            <div class="services-4-outer-box">
+                <div class="row no-gutters">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-power"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Performance Upgrade</h2>
+                                <a href="performance-upgrade.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-gearbox"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Transmission Services</h2>
+                                <a href="transmission.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-break"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Break Repair & Service</h2>
+                                <a href="break-repair.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-car-3"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Air Conditioning Evac</h2>
+                                <a href="air-condition.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-car-engine"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Engine Service & Repair</h2>
+                                <a href="engin-repair.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-tire"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Tyre & Wheels</h2>
+                                <a href="tyre-wheels.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-block">
+                            <div class="services-4-inner-box">
+                                <div class="services-4-icon"><span class="flaticon-spray-gun"></span></div>
+                                <h5 class="services-4-category">Service and Repairs</h5>
+                                <h2 class="services-4-title">Denting & Painting</h2>
+                                <a href="denting-painting.html" class="services-4-read-more">read more  +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-4-feature-image"><img src="{{asset('theme/assets/images/resource/image-52.png')}}" alt=""></div>
+                    </div>
+                </div>
+            </div>
+            <div class="services-4-text">We Do All Differeent Services .... <a href="services.html" class="services-4-view-all-service">View all Services</a></div>
+        </div>
+    </section>
 
+    <section class="whychooseus-3-section">
+        <div class="whychooseus-3-row">
+            <div class="whychooseus-3-left-column" style="background-image: url('{{asset('theme/assets/images/resource/image-53.jpg')}}');">
+                <div class="whychooseus-3-image"><img src="{{asset('theme/assets/images/resource/image-53.jpg')}}" alt=""></div>
+                <div class="whychooseus-3-icon-box">
+                    <div class="whychooseus-3-icon"><i class="flaticon-reliability"></i></div>
+                    <div class="whychooseus-3-text">Trusted by <br>
+                        9800+ happy <br>
+                        customers</div>
+                </div>
+            </div>
+            <div class="whychooseus-3-right-column">
+                <div class="whychooseus-3-content">
+                    <div class="sec-title-area">
+                        <div class="sub-title">Our specifications</div>
+                        <h2 class="sec-title mb_30">Why you choose our workshop <br>
+                            for repair car</h2>
+                        <div class="whychooseus-3-tile-desc">It has survived not only five centuries, but also the leap into typesetting, <br> remaining essentially unchanged. It was popularised.</div>
+                    </div>
+                    <ul class="whychooseus-3-list">
+                        <li>
+                            <div class="whychooseus-3-icon2"><i class="flaticon-mechanic"></i></div>
+                            <h4 class="whychooseus-3-title">Certified Expert Mechanics</h4>
+                        </li>
+                        <li>
+                            <div class="whychooseus-3-icon2"><i class="flaticon-wrench-1"></i></div>
+                            <h4 class="whychooseus-3-title">Fast And Quality Service</h4>
+                        </li>
+                        <li>
+                            <div class="whychooseus-3-icon2"><i class="flaticon-price-tag-1"></i></div>
+                            <h4 class="whychooseus-3-title">Best Prices in Town</h4>
+                        </li>
+                        <li>
+                            <div class="whychooseus-3-icon2"><i class="flaticon-trophy"></i></div>
+                            <h4 class="whychooseus-3-title">Awarded Workshop</h4>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="facts-1-section s-two">
         <div class="auto-container">
